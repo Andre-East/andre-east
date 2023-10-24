@@ -5,4 +5,4 @@
 
 <!--- [![Top Langs](https://github-readme-stats-two-ruddy-73.vercel.app/api/top-langs/?username=andre-east)](https://github.com/andre-east/github-readme-stats) --->
 
-![Top Langs](https://github-readme-stats-gilt-two-60.vercel.app/api/top-langs/?username=andre-east&hide_progress=true&theme=github_dark_dimmed&&langs_count=8)
+![Top Langs](https://github-readme-stats-red-kappa-82.vercel.app/api/top-langs/?username=andre-east&hide_progress=true&theme=github_dark_dimmed&&langs_count=8)
