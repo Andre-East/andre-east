@@ -1,4 +1,4 @@
-# Hi there 👋  Andre' 
+# Hi there 👋,  Andre' here...
 
 ## I am simply someone who is working on being a swiss-army knife in tech!!! 😁👌
 
