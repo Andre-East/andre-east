@@ -1,6 +1,6 @@
 ### Hi there 👋  Andre' 
 
-##I am simply someone who is working on being a swiss army knife in tech!!!
+I am simply someone who is working on being a swiss army knife in tech!!! 😁👌
 
 
 
