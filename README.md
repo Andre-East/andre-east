@@ -7,4 +7,4 @@
 
 <!-- ![Top Langs](https://github-readme-stats-red-kappa-82.vercel.app/api/top-langs/?username=andre-east&hide_progress=true&theme=github_dark_dimmed&langs_count=8) -->
 
-![Top Langs](https://github-readme-stats-red-kappa-82.vercel.app/api/top-langs/?username=andre-east&layout=compact&theme=transparent&langs_count=8)
+![Top Langs](https://github-readme-stats-red-kappa-82.vercel.app/api/top-langs/?username=andre-east&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5)
