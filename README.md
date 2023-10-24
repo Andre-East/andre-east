@@ -3,7 +3,7 @@
 ## I am simply someone who is working on being a swiss-army knife in tech!!! 😁👌
 
 ### Interets include:
-- Automation/Scripting  🤖
+- Automation/Scripting  🤖🚀
 - System Adminsitration 🖥️🛠️
 - Web Development 👨‍💻📟
 
